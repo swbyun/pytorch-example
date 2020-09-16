@@ -6,5 +6,5 @@ python:
 install: "pip install -r mnist/requirements.txt"
 
 # command to run tests
-script: python mnist/main.py
+script: python test.py
 
